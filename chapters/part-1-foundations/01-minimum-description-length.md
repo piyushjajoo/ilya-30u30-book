@@ -456,14 +456,13 @@ graph TB
     
     style MDL fill:#ff6b6b,color:#fff
     style KC fill:#4ecdc4
-```
-
-*Figure: MDL connects to multiple chapters throughout the book, providing theoretical foundations (Kolmogorov Complexity), direct applications (Keeping NNs Simple), and connections to modern topics (VLAE, Scaling Laws).*
     style NN fill:#4ecdc4
     style VLAE fill:#95e1d3
     style SCALE fill:#95e1d3
     style COFFEE fill:#4ecdc4
 ```
+
+*Figure: MDL connects to multiple chapters throughout the book, providing theoretical foundations (Kolmogorov Complexity), direct applications (Keeping NNs Simple), and connections to modern topics (VLAE, Scaling Laws).*
 
 ---
 
