@@ -179,7 +179,7 @@ graph LR
 ```mermaid
 xychart-beta
     title "MDL Trade-off in Neural Networks"
-    x-axis "Training Progress" [Start, "", "", "", "", End]
+    x-axis "Training Progress" [Start, Early, Mid-Early, Mid, Mid-Late, Late, End]
     y-axis "Bits" 0 --> 100
     line "KL(Q||P) - Weight Cost" [5, 15, 30, 45, 55, 60]
     line "E[-log P(D|θ)] - Data Cost" [90, 50, 30, 20, 15, 12]

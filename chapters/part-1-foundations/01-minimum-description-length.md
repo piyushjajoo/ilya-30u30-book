@@ -157,7 +157,7 @@ Imagine plotting total description length against model complexity:
 ```mermaid
 xychart-beta
     title "MDL Trade-off Visualization"
-    x-axis "Model Complexity" [Simple, "", "", Medium, "", "", Complex]
+    x-axis "Model Complexity" [Simple, Low, Medium-Low, Medium, Medium-High, High, Complex]
     y-axis "Bits Required" 0 --> 200
     line "L(H) - Model Cost" [10, 25, 45, 70, 100, 135, 175]
     line "L(D|H) - Data Cost" [150, 80, 45, 35, 32, 31, 30]
