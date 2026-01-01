@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 5 - The First Law of Complexodynamics
-nav_order: 7
+parent: Part I - Foundations of Learning and Complexity
+nav_order: 5
 ---
 
 # Chapter 5: The First Law of Complexodynamics

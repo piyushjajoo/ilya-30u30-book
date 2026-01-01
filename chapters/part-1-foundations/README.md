@@ -1,3 +1,10 @@
+---
+layout: default
+title: Part I - Foundations of Learning and Complexity
+nav_order: 3
+has_children: true
+---
+
 # Part I: Foundations of Learning and Complexity
 
 > *Understanding the theoretical bedrock of machine learning*

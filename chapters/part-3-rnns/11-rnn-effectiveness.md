@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 11 - The Unreasonable Effectiveness of Recurrent Neural Networks
-nav_order: 13
+parent: Part III - Sequence Models and Recurrent Networks
+nav_order: 1
 ---
 
 # Chapter 11: The Unreasonable Effectiveness of Recurrent Neural Networks

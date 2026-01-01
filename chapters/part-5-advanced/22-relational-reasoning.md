@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 22 - A Simple Neural Network Module for Relational Reasoning
-nav_order: 24
+parent: Part V - Advanced Architectures
+nav_order: 5
 ---
 
 # Chapter 22: A Simple Neural Network Module for Relational Reasoning

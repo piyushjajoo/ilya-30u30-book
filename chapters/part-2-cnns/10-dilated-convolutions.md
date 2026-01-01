@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 10 - Multi-Scale Context Aggregation by Dilated Convolutions
-nav_order: 12
+parent: Part II - Convolutional Neural Networks
+nav_order: 5
 ---
 
 # Chapter 10: Multi-Scale Context Aggregation by Dilated Convolutions

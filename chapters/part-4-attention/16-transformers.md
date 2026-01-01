@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 16 - Attention Is All You Need
-nav_order: 18
+parent: Part IV - Attention and Transformers
+nav_order: 2
 ---
 
 # Chapter 16: Attention Is All You Need

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 27 - Machine Super Intelligence
-nav_order: 29
+parent: Part VII - The Future of Intelligence
+nav_order: 1
 ---
 
 # Chapter 27: Machine Super Intelligence

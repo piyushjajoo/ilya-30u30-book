@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 18 - Pointer Networks
-nav_order: 20
+parent: Part V - Advanced Architectures
+nav_order: 1
 ---
 
 # Chapter 18: Pointer Networks

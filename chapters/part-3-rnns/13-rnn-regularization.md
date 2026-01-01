@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 13 - Recurrent Neural Network Regularization
-nav_order: 15
+parent: Part III - Sequence Models and Recurrent Networks
+nav_order: 3
 ---
 
 # Chapter 13: Recurrent Neural Network Regularization

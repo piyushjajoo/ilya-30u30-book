@@ -1,3 +1,10 @@
+---
+layout: default
+title: Part III - Sequence Models and Recurrent Networks
+nav_order: 5
+has_children: true
+---
+
 # Part III: Sequence Models and Recurrent Networks
 
 > *Learning from sequential data*

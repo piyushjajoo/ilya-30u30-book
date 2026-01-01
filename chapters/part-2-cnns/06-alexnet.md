@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 6 - AlexNet - The ImageNet Breakthrough
-nav_order: 8
+parent: Part II - Convolutional Neural Networks
+nav_order: 1
 ---
 
 # Chapter 6: AlexNet - The ImageNet Breakthrough

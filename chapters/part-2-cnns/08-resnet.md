@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 8 - Deep Residual Learning for Image Recognition
-nav_order: 10
+parent: Part II - Convolutional Neural Networks
+nav_order: 3
 ---
 
 # Chapter 8: Deep Residual Learning for Image Recognition

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 14 - Relational Recurrent Neural Networks
-nav_order: 16
+parent: Part III - Sequence Models and Recurrent Networks
+nav_order: 4
 ---
 
 # Chapter 14: Relational Recurrent Neural Networks

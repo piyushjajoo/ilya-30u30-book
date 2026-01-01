@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 24 - Deep Speech 2
-nav_order: 26
+parent: Part VI - Scaling and Efficiency
+nav_order: 1
 ---
 
 # Chapter 24: Deep Speech 2

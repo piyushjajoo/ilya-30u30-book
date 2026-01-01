@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 2 - Kolmogorov Complexity and Algorithmic Randomness
-nav_order: 4
+parent: Part I - Foundations of Learning and Complexity
+nav_order: 2
 ---
 
 # Chapter 2: Kolmogorov Complexity and Algorithmic Randomness

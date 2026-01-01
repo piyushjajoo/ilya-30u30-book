@@ -1,3 +1,10 @@
+---
+layout: default
+title: Part II - Convolutional Neural Networks
+nav_order: 4
+has_children: true
+---
+
 # Part II: Convolutional Neural Networks
 
 > *The revolution in visual understanding*

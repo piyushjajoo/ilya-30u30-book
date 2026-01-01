@@ -1,3 +1,10 @@
+---
+layout: default
+title: Part VII - The Future of Intelligence
+nav_order: 9
+has_children: true
+---
+
 # Part VII: The Future of Intelligence
 
 > *What comes next?*

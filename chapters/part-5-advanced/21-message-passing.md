@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 21 - Neural Message Passing for Quantum Chemistry
-nav_order: 23
+parent: Part V - Advanced Architectures
+nav_order: 4
 ---
 
 # Chapter 21: Neural Message Passing for Quantum Chemistry

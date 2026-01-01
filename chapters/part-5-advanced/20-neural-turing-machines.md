@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 20 - Neural Turing Machines
-nav_order: 22
+parent: Part V - Advanced Architectures
+nav_order: 3
 ---
 
 # Chapter 20: Neural Turing Machines

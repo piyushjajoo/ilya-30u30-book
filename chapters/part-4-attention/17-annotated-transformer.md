@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 17 - The Annotated Transformer
-nav_order: 19
+parent: Part IV - Attention and Transformers
+nav_order: 3
 ---
 
 # Chapter 17: The Annotated Transformer

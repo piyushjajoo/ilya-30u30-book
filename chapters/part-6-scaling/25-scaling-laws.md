@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 25 - Scaling Laws for Neural Language Models
-nav_order: 27
+parent: Part VI - Scaling and Efficiency
+nav_order: 2
 ---
 
 # Chapter 25: Scaling Laws for Neural Language Models

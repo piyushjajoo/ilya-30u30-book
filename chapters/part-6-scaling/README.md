@@ -1,3 +1,10 @@
+---
+layout: default
+title: Part VI - Scaling and Efficiency
+nav_order: 8
+has_children: true
+---
+
 # Part VI: Scaling and Efficiency
 
 > *Training neural networks at scale*

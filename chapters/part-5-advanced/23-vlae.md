@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 23 - Variational Lossy Autoencoder
-nav_order: 25
+parent: Part V - Advanced Architectures
+nav_order: 6
 ---
 
 # Chapter 23: Variational Lossy Autoencoder

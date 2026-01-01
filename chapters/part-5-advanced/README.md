@@ -1,3 +1,10 @@
+---
+layout: default
+title: Part V - Advanced Architectures
+nav_order: 7
+has_children: true
+---
+
 # Part V: Advanced Architectures
 
 > *Specialized neural network designs*

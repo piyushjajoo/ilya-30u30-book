@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 4 - The Coffee Automaton
-nav_order: 6
+parent: Part I - Foundations of Learning and Complexity
+nav_order: 4
 ---
 
 # Chapter 4: The Coffee Automaton

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Part IV - Attention and Transformers
+nav_order: 6
+has_children: true
+---
+
 # Part IV: Attention and Transformers
 
 > *The attention revolution*

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 26 - GPipe - Efficient Training of Giant Neural Networks
-nav_order: 28
+parent: Part VI - Scaling and Efficiency
+nav_order: 3
 ---
 
 # Chapter 26: GPipe - Efficient Training of Giant Neural Networks

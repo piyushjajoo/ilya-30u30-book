@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Chapter 1 - The Minimum Description Length Principle
-nav_order: 3
-nav_exclude: true
+parent: Part I - Foundations of Learning and Complexity
+nav_order: 1
 ---
 
 # Chapter 1: The Minimum Description Length Principle

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 9 - Identity Mappings in Deep Residual Networks
-nav_order: 11
+parent: Part II - Convolutional Neural Networks
+nav_order: 4
 ---
 
 # Chapter 9: Identity Mappings in Deep Residual Networks

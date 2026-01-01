@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 3 - Keeping Neural Networks Simple
-nav_order: 5
+parent: Part I - Foundations of Learning and Complexity
+nav_order: 3
 ---
 
 # Chapter 3: Keeping Neural Networks Simple

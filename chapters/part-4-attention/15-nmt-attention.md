@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 15 - Neural Machine Translation by Jointly Learning to Align and Translate
-nav_order: 17
+parent: Part IV - Attention and Transformers
+nav_order: 1
 ---
 
 # Chapter 15: Neural Machine Translation by Jointly Learning to Align and Translate

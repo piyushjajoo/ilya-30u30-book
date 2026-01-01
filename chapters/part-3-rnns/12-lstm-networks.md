@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 12 - Understanding LSTM Networks
-nav_order: 14
+parent: Part III - Sequence Models and Recurrent Networks
+nav_order: 2
 ---
 
 # Chapter 12: Understanding LSTM Networks

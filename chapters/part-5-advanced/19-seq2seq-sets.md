@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Chapter 19 - Order Matters: Sequence to Sequence for Sets
-nav_order: 21
+parent: Part V - Advanced Architectures
+nav_order: 2
 ---
 
 # Chapter 19: Order Matters: Sequence to Sequence for Sets
