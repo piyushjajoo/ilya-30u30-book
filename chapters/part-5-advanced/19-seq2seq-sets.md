@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chapter 19 - Order Matters: Sequence to Sequence for Sets
+title: Chapter 19 - Order Matters
 parent: Part V - Advanced Architectures
 nav_order: 2
 ---
