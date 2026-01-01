@@ -27,10 +27,8 @@ heading_anchors: true
 
 # Navigation structure
 nav_enabled: true
-nav_sort: case_insensitive
-
-# Ensure proper parent-child relationships
-# Disable automatic sorting for pages with parents to maintain hierarchy
+# nav_sort disabled to preserve parent-child hierarchy
+# nav_sort: case_insensitive
 
 # Custom CSS
 sass:

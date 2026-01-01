@@ -4,6 +4,7 @@ title: Part V - Advanced Architectures
 parent: Table of Contents
 nav_order: 5
 has_children: true
+permalink: /chapters/part-5-advanced/
 ---
 
 # Part V: Advanced Architectures
