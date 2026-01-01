@@ -29,6 +29,9 @@ heading_anchors: true
 nav_enabled: true
 nav_sort: case_insensitive
 
+# Ensure proper parent-child relationships
+# Disable automatic sorting for pages with parents to maintain hierarchy
+
 # Custom CSS
 sass:
   style: compressed
