@@ -8,7 +8,7 @@ This book transforms Ilya Sutskever's legendary "30u30" reading list into an acc
 
 ## Source
 
-Based on [Ilya's 30u30 Reading List](https://github.com/jayxin/Ilya-30u30)
+Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
