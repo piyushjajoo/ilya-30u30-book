@@ -133,6 +133,12 @@ For cutting-edge architectures:
 
 ---
 
+## Support This Project
+
+If you find this book useful, please consider ⭐ starring the [GitHub repository](https://github.com/piyushjajoo/ilya-30u30-book) to help others discover it!
+
+---
+
 ## License
 
 Educational content based on public research papers. All original papers are cited with links to their sources.
