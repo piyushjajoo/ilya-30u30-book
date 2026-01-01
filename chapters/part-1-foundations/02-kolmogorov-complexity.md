@@ -163,7 +163,7 @@ This is related to the **Berry Paradox**: "The smallest positive integer not def
 
 The deepest insight of Kolmogorov Complexity is its definition of **randomness**:
 
-> **A string x is random if K(x) ≈ |x|**
+> **A string x is random if K(x) ≈ \|x\|**
 
 In other words, a random string cannot be compressed—it has no patterns to exploit.
 
@@ -210,9 +210,9 @@ pie title "Strings of Length n"
 
 ### Complexity Given Side Information
 
-We can define **conditional complexity** K(x|y):
+We can define **conditional complexity** K(x\|y):
 
-> **K(x|y) = the length of the shortest program that outputs x given y as auxiliary input**
+> **K(x\|y) = the length of the shortest program that outputs x given y as auxiliary input**
 
 ```mermaid
 graph LR
@@ -233,7 +233,7 @@ graph LR
 
 ### Key Relationship
 
-$$K(x,y) = K(x) + K(y|x) + O(\log(K(x,y)))$$
+$$K(x,y) = K(x) + K(y\|x) + O(\log(K(x,y)))$$
 
 This says: to describe the pair (x,y), describe x, then describe y given x. The log factor is for bookkeeping.
 
