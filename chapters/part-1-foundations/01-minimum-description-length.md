@@ -45,7 +45,7 @@ L(H) + L(D|H)
 
 Where:
 - **L(H)** = the length (in bits) needed to describe the hypothesis/model
-- **L(D|H)** = the length (in bits) needed to describe the data given the hypothesis
+- **L(D&vert;H)** = the length (in bits) needed to describe the data given the hypothesis
 
 ```mermaid
 graph LR
