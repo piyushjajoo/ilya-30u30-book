@@ -58,6 +58,9 @@ kramdown:
       line_numbers: false
   # Use MathJax for math rendering (supported by GitHub Pages)
   math_engine: mathjax
+  math_engine_opts:
+    preview: true
+    preview_as_code: false
 
 # Build settings
 markdown: kramdown
