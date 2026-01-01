@@ -56,14 +56,8 @@ kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
-  # Use the math engine provided by Jekyll/Kramdown, which supports LaTeX-like syntax
-  math_engine: katex
-  # Optional: Define how math blocks are rendered (e.g., as spans or blocks)
-  math_engine_opts:
-    # Use KaTeX for rendering
-    disable_math: false
-    # Use a specific delimiter style (e.g., $$...$$ for blocks, $...$ for inline)
-    # The default delimiters are usually fine, but you can specify them here if needed
+  # Use MathJax for math rendering (supported by GitHub Pages)
+  math_engine: mathjax
 
 # Build settings
 markdown: kramdown
