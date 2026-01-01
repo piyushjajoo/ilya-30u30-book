@@ -18,7 +18,7 @@ nav_order: 3
 ## 3.1 The Bridge to Neural Networks
 
 In Chapters 1 and 2, we explored the theoretical foundations:
-- **MDL Principle**: The best model minimizes L(H) + L(D|H)
+- **MDL Principle**: The best model minimizes L(H) + L(D\|H)
 - **Kolmogorov Complexity**: The true complexity of an object is its shortest description
 
 Now we see these ideas **directly applied to neural networks**. This 1993 paper by Hinton and Van Camp is a landmark—it shows that training neural networks can be viewed as finding the shortest description of the data, and introduces ideas that would later become variational inference and modern Bayesian deep learning.
@@ -40,7 +40,7 @@ graph LR
     style NN fill:#4ecdc4,color:#fff
 ```
 
-*Figure: The connection between MDL principle and neural networks. MDL's L(H) + L(D|H) maps to L(weights) + L(errors), leading to regularization, Bayesian neural networks, and compression techniques.*
+*Figure: The connection between MDL principle and neural networks. MDL's L(H) + L(D\|H) maps to L(weights) + L(errors), leading to regularization, Bayesian neural networks, and compression techniques.*
 
 ---
 
@@ -54,7 +54,7 @@ Imagine you want to send a dataset to a colleague. You have two options:
 - Cost: L(D) bits — just the data itself
 
 **Option 2: Send a neural network + residuals**
-- Cost: L(weights) + L(D|weights) bits
+- Cost: L(weights) + L(D\|weights) bits
 - The network compresses patterns; residuals capture what's left
 
 ```mermaid

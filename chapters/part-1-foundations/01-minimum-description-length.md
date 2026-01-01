@@ -63,7 +63,7 @@ graph LR
     style D fill:#ffe66d,color:#000
 ```
 
-*Figure: The MDL principle minimizes the sum of model complexity L(H) and data encoding cost L(D|H).*
+*Figure: The MDL principle minimizes the sum of model complexity L(H) and data encoding cost L(D\|H).*
 
 ### A Simple Example: Fitting Points
 
@@ -171,7 +171,7 @@ xychart-beta
     line "Total L(H)+L(D|H)" [160, 105, 90, 105, 132, 166, 205]
 ```
 
-*Figure: Visualization of the MDL trade-off. As model complexity increases, L(H) increases while L(D|H) decreases. The optimal model minimizes the total (shown at "Medium" complexity with 90 bits).*
+*Figure: Visualization of the MDL trade-off. As model complexity increases, L(H) increases while L(D\|H) decreases. The optimal model minimizes the total (shown at "Medium" complexity with 90 bits).*
 
 The **minimum of the total curve** gives us the optimal model complexity. This is MDL in action!
 
@@ -190,7 +190,7 @@ A helpful way to understand MDL is through a communication game:
 
 **Strategy:**
 1. First, send which model H to use (costs L(H) bits)
-2. Then, send the data encoded using model H (costs L(D|H) bits)
+2. Then, send the data encoded using model H (costs L(D\|H) bits)
 
 ```mermaid
 sequenceDiagram
@@ -208,7 +208,7 @@ sequenceDiagram
     Note over S,R: Total cost: L(H) + L(D|H) bits
 ```
 
-*Figure: The sender-receiver communication game. The sender first transmits the model H (costing L(H) bits), then transmits the data encoded using that model (costing L(D|H) bits). MDL minimizes the total transmission cost.*
+*Figure: The sender-receiver communication game. The sender first transmits the model H (costing L(H) bits), then transmits the data encoded using that model (costing L(D\|H) bits). MDL minimizes the total transmission cost.*
 
 The MDL principle says: **choose the model that minimizes total transmission cost**.
 
@@ -218,17 +218,17 @@ Suppose we want to transmit the sequence: `0000000001111111111`
 
 **Model 1: No pattern (raw encoding)**
 - L(H) = 0 bits (no model to describe)
-- L(D|H) = 19 bits (one bit per character)
+- L(D\|H) = 19 bits (one bit per character)
 - **Total = 19 bits**
 
 **Model 2: Run-length encoding**
 - L(H) = ~5 bits (describe the RLE scheme)
-- L(D|H) = ~8 bits (say "9 zeros, then 10 ones")
+- L(D\|H) = ~8 bits (say "9 zeros, then 10 ones")
 - **Total ≈ 13 bits** ✓
 
 **Model 3: Elaborate compression with dictionary**
 - L(H) = 50 bits (complex scheme description)
-- L(D|H) = 2 bits 
+- L(D\|H) = 2 bits 
 - **Total = 52 bits** ✗
 
 The second model wins—it finds the right level of abstraction.
@@ -255,7 +255,7 @@ $$\hat{\theta}_{MDL} = \arg\min_{\theta} \left[ L(\theta) + L(D|\theta) \right]$
 
 Where:
 - **L(θ)** often relates to the precision needed to specify parameters
-- **L(D|θ)** is typically the negative log-likelihood: $-\log P(D|\theta)$
+- **L(D\|θ)** is typically the negative log-likelihood: $-\log P(D|\theta)$
 
 ```mermaid
 graph LR
@@ -272,7 +272,7 @@ graph LR
     style D fill:#ffe66d
 ```
 
-*Figure: MDL connects to Bayesian inference. The model description length L(θ) corresponds to the negative log-prior, while L(D|θ) corresponds to the negative log-likelihood. Together, they form the negative log-posterior (MAP estimation).*
+*Figure: MDL connects to Bayesian inference. The model description length L(θ) corresponds to the negative log-prior, while L(D\|θ) corresponds to the negative log-likelihood. Together, they form the negative log-posterior (MAP estimation).*
 
 ### The MDL ↔ Bayesian Connection
 
@@ -362,13 +362,13 @@ graph TB
     T --> E3
 ```
 
-*Figure: Regularization in machine learning is equivalent to MDL. The loss function corresponds to L(D|θ), regularization to L(θ), and common techniques like L2, L1, and dropout all have MDL interpretations.*
+*Figure: Regularization in machine learning is equivalent to MDL. The loss function corresponds to L(D\|θ), regularization to L(θ), and common techniques like L2, L1, and dropout all have MDL interpretations.*
 
 ### Neural Network Compression
 
 The MDL perspective explains why:
 
-1. **Pruning works**: Removing unnecessary weights reduces L(θ) without much increase in L(D|θ)
+1. **Pruning works**: Removing unnecessary weights reduces L(θ) without much increase in L(D\|θ)
 
 2. **Quantization works**: Using fewer bits per weight reduces L(θ)
 

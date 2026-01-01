@@ -317,7 +317,7 @@ From Chapter 1, MDL minimizes: $L(H) + L(D|H)$
 
 For VLAE:
 - **L(H) = Rate**: $KL(q(z|x) \| p(z))$ (description of latent)
-- **L(D|H) = Distortion**: $-\log p(x|z)$ (description of data given latent)
+- **L(D\|H) = Distortion**: $-\log p(x|z)$ (description of data given latent)
 
 ```mermaid
 graph TB

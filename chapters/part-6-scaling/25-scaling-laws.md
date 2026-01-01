@@ -362,7 +362,7 @@ From Chapter 1, MDL minimizes: $L(H) + L(D|H)$
 
 For scaling laws:
 - **L(H)**: Model description length (scales with $N$)
-- **L(D|H)**: Data description length given model (scales with $D$)
+- **L(D\|H)**: Data description length given model (scales with $D$)
 
 ```mermaid
 graph TB
