@@ -255,7 +255,7 @@ $$\hat{\theta}_{MDL} = \arg\min_{\theta} \left[ L(\theta) + L(D|\theta) \right]$
 
 Where:
 - **L(θ)** often relates to the precision needed to specify parameters
-- **L(D\|θ)** is typically the negative log-likelihood: $-\log P(D|\theta)$
+- **L(D\|θ)** is typically the negative log-likelihood: $-\log P(D\|\theta)$
 
 ```mermaid
 graph LR
