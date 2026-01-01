@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Part II - Convolutional Neural Networks
-nav_order: 4
+parent: Table of Contents
+nav_order: 2
 has_children: true
 ---
 

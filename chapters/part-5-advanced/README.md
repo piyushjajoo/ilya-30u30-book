@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Part V - Advanced Architectures
-nav_order: 7
+parent: Table of Contents
+nav_order: 5
 has_children: true
 ---
 

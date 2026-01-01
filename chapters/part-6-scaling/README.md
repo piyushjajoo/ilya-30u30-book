@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Part VI - Scaling and Efficiency
-nav_order: 8
+parent: Table of Contents
+nav_order: 6
 has_children: true
 ---
 

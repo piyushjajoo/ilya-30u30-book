@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Part I - Foundations of Learning and Complexity
-nav_order: 3
+parent: Table of Contents
+nav_order: 1
 has_children: true
 ---
 

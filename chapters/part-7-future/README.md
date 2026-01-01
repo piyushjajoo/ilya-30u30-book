@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Part VII - The Future of Intelligence
-nav_order: 9
+parent: Table of Contents
+nav_order: 7
 has_children: true
 ---
 

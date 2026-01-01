@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Part III - Sequence Models and Recurrent Networks
-nav_order: 5
+parent: Table of Contents
+nav_order: 3
 has_children: true
 ---
 

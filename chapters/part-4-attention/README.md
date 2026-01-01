@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Part IV - Attention and Transformers
-nav_order: 6
+parent: Table of Contents
+nav_order: 4
 has_children: true
 ---
 
