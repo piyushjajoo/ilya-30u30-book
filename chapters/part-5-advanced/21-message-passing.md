@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 21 - Neural Message Passing for Quantum Chemistry
+nav_order: 23
+---
+
 # Chapter 21: Neural Message Passing for Quantum Chemistry
 
 > *"We introduce a unified framework for learning on graphs, generalizing convolutional neural networks to graph-structured data."*

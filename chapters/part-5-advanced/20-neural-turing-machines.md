@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 20 - Neural Turing Machines
+nav_order: 22
+---
+
 # Chapter 20: Neural Turing Machines
 
 > *"We extend the capabilities of neural networks by coupling them to external memory resources, which they can interact with by attentional processes."*

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 15 - Neural Machine Translation by Jointly Learning to Align and Translate
+nav_order: 17
+---
+
 # Chapter 15: Neural Machine Translation by Jointly Learning to Align and Translate
 
 > *"We introduce an attention mechanism that allows the model to automatically search for parts of the source sentence that are relevant to predicting a target word."*

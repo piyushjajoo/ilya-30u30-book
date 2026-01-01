@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 3 - Keeping Neural Networks Simple
+nav_order: 5
+---
+
 # Chapter 3: Keeping Neural Networks Simple
 
 > *"The simplest network that fits the data will generalize best."*

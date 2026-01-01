@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 16 - Attention Is All You Need
+nav_order: 18
+---
+
 # Chapter 16: Attention Is All You Need
 
 > *"We propose the Transformer, a model architecture eschewing recurrence and convolutions entirely and relying solely on attention mechanisms."*

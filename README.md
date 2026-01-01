@@ -1,3 +1,11 @@
+---
+layout: default
+title: Table of Contents
+nav_order: 2
+permalink: /README/
+mermaid: true
+---
+
 # 📚 The Ilya 30u30 Deep Learning Compendium
 
 > A comprehensive book based on the 30 papers and resources recommended by Ilya Sutskever for mastering Artificial Intelligence.

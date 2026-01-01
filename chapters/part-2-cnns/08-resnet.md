@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 8 - Deep Residual Learning for Image Recognition
+nav_order: 10
+---
+
 # Chapter 8: Deep Residual Learning for Image Recognition
 
 > *"We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously."*

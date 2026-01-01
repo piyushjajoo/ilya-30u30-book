@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 12 - Understanding LSTM Networks
+nav_order: 14
+---
+
 # Chapter 12: Understanding LSTM Networks
 
 > *"LSTMs are explicitly designed to avoid the long-term dependency problem."*

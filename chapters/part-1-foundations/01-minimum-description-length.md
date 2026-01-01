@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 1 - The Minimum Description Length Principle
+nav_order: 3
+---
+
 # Chapter 1: The Minimum Description Length Principle
 
 > *"The best model is the one that provides the shortest description of the data."*

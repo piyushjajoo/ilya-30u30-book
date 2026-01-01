@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 11 - The Unreasonable Effectiveness of Recurrent Neural Networks
+nav_order: 13
+---
+
 # Chapter 11: The Unreasonable Effectiveness of Recurrent Neural Networks
 
 > *"There's something magical about Recurrent Neural Networks."*

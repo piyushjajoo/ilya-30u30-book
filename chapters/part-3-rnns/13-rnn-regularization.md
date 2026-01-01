@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 13 - Recurrent Neural Network Regularization
+nav_order: 15
+---
+
 # Chapter 13: Recurrent Neural Network Regularization
 
 > *"We apply dropout to the non-recurrent connections of LSTM units."*

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 17 - The Annotated Transformer
+nav_order: 19
+---
+
 # Chapter 17: The Annotated Transformer
 
 > *"A line-by-line implementation walkthrough of the Transformer architecture."*

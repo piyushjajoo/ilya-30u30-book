@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 23 - Variational Lossy Autoencoder
+nav_order: 25
+---
+
 # Chapter 23: Variational Lossy Autoencoder
 
 > *"We propose a lossy compression framework that connects variational autoencoders to rate-distortion theory."*

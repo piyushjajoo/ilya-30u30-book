@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 19 - Order Matters: Sequence to Sequence for Sets
+nav_order: 21
+---
+
 # Chapter 19: Order Matters: Sequence to Sequence for Sets
 
 > *"We present a simple architecture that can handle sets as input, while producing sequences as output."*

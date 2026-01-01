@@ -12,7 +12,7 @@ mermaid: true
 A comprehensive book based on the 30 papers and resources recommended by Ilya Sutskever for mastering Artificial Intelligence.
 {: .fs-6 .fw-300 }
 
-[Start Reading]({{ site.baseurl }}/README){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Start Reading]({{ site.baseurl }}/README/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/piyushjajoo/ilya-30u30-book){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---

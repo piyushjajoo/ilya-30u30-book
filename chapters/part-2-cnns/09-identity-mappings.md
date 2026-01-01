@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 9 - Identity Mappings in Deep Residual Networks
+nav_order: 11
+---
+
 # Chapter 9: Identity Mappings in Deep Residual Networks
 
 > *"When the identity shortcut is truly identity, information flows freely."*

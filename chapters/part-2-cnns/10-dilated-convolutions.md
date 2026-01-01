@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 10 - Multi-Scale Context Aggregation by Dilated Convolutions
+nav_order: 12
+---
+
 # Chapter 10: Multi-Scale Context Aggregation by Dilated Convolutions
 
 > *"Dilated convolutions support exponentially expanding receptive fields without losing resolution."*

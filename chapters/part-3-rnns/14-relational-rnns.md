@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 14 - Relational Recurrent Neural Networks
+nav_order: 16
+---
+
 # Chapter 14: Relational Recurrent Neural Networks
 
 > *"We introduce a memory module that uses self-attention to allow memories to interact."*

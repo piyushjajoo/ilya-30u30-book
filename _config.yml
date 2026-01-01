@@ -29,6 +29,10 @@ heading_anchors: true
 nav_enabled: true
 nav_sort: case_insensitive
 
+# Custom CSS
+sass:
+  style: compressed
+
 # Search
 search_enabled: true
 search:

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 24 - Deep Speech 2
+nav_order: 26
+---
+
 # Chapter 24: Deep Speech 2
 
 > *"We present Deep Speech 2, an end-to-end trainable speech recognition system that achieves human-level accuracy on multiple datasets."*

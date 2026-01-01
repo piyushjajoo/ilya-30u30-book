@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 18 - Pointer Networks
+nav_order: 20
+---
+
 # Chapter 18: Pointer Networks
 
 > *"We introduce a new architecture to learn the conditional probability of an output sequence with elements that are discrete tokens corresponding to positions in an input sequence."*

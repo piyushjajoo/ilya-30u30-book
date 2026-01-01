@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 4 - The Coffee Automaton
+nav_order: 6
+---
+
 # Chapter 4: The Coffee Automaton
 
 > *"Complexity rises, peaks, and falls—even in a cup of coffee."*

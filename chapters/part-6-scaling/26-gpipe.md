@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 26 - GPipe - Efficient Training of Giant Neural Networks
+nav_order: 28
+---
+
 # Chapter 26: GPipe - Efficient Training of Giant Neural Networks
 
 > *"We introduce GPipe, a pipeline parallelism library that enables efficient training of giant neural networks by partitioning models across multiple accelerators."*

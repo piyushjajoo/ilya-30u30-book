@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 27 - Machine Super Intelligence
+nav_order: 29
+---
+
 # Chapter 27: Machine Super Intelligence
 
 > *"We explore the nature of machine intelligence, universal measures of intelligence, and the implications of superintelligent AI systems."*

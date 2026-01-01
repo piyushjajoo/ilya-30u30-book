@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 6 - AlexNet - The ImageNet Breakthrough
+nav_order: 8
+---
+
 # Chapter 6: AlexNet - The ImageNet Breakthrough
 
 > *"We trained a large, deep convolutional neural network to classify the 1.2 million images in the ImageNet LSVRC-2010 contest into the 1000 different classes."*

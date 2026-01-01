@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 25 - Scaling Laws for Neural Language Models
+nav_order: 27
+---
+
 # Chapter 25: Scaling Laws for Neural Language Models
 
 > *"We study empirical scaling laws for language model performance on the cross-entropy loss. We find that performance scales as a power-law with model size, dataset size, and compute."*

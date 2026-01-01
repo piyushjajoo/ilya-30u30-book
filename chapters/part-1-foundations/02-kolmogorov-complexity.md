@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 2 - Kolmogorov Complexity and Algorithmic Randomness
+nav_order: 4
+---
+
 # Chapter 2: Kolmogorov Complexity and Algorithmic Randomness
 
 > *"The complexity of an object is the length of the shortest program that produces it."*

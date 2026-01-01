@@ -1,3 +1,9 @@
+---
+layout: default
+title: Chapter 5 - The First Law of Complexodynamics
+nav_order: 7
+---
+
 # Chapter 5: The First Law of Complexodynamics
 
 > *"Interesting things happen on the way from order to chaos."*
