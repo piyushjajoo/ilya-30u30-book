@@ -10,19 +10,25 @@ mermaid: true
 
 > A comprehensive book based on the 30 papers and resources recommended by Ilya Sutskever for mastering Artificial Intelligence.
 
-## About This Book
+---
+
+## 📋 Table of Contents
+
+Jump to: [Part I](#part-i-foundations-of-learning-and-complexity) • [Part II](#part-ii-convolutional-neural-networks) • [Part III](#part-iii-sequence-models-and-recurrent-networks) • [Part IV](#part-iv-attention-and-transformers) • [Part V](#part-v-advanced-architectures) • [Part VI](#part-vi-scaling-and-efficiency) • [Part VII](#part-vii-the-future-of-intelligence)
+
+---
+
+## 📖 About This Book
 
 This book transforms Ilya Sutskever's legendary "30u30" reading list into an accessible, structured learning journey. Each chapter distills complex research papers into clear explanations with visual Mermaid diagrams.
 
-## Source
-
-Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
+**Source:** Based on [Ilya's 30u30 Reading List](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
 ## 📖 Table of Contents
 
-# Part I: Foundations of Learning and Complexity
+### Part I: Foundations of Learning and Complexity
 *Understanding the theoretical bedrock of machine learning*
 
 | Ch | Title | Paper/Source |
@@ -35,7 +41,7 @@ Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
-# Part II: Convolutional Neural Networks
+### Part II: Convolutional Neural Networks
 *The revolution in visual understanding*
 
 | Ch | Title | Paper/Source |
@@ -48,7 +54,7 @@ Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
-# Part III: Sequence Models and Recurrent Networks
+### Part III: Sequence Models and Recurrent Networks
 *Learning from sequential data*
 
 | Ch | Title | Paper/Source |
@@ -60,7 +66,7 @@ Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
-# Part IV: Attention and Transformers
+### Part IV: Attention and Transformers
 *The attention revolution*
 
 | Ch | Title | Paper/Source |
@@ -71,7 +77,7 @@ Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
-# Part V: Advanced Architectures
+### Part V: Advanced Architectures
 *Specialized neural network designs*
 
 | Ch | Title | Paper/Source |
@@ -85,7 +91,7 @@ Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
-# Part VI: Scaling and Efficiency
+### Part VI: Scaling and Efficiency
 *Training neural networks at scale*
 
 | Ch | Title | Paper/Source |
@@ -96,7 +102,7 @@ Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
-# Part VII: The Future of Intelligence
+### Part VII: The Future of Intelligence
 *Philosophical and theoretical perspectives*
 
 | Ch | Title | Paper/Source |
@@ -105,7 +111,9 @@ Based on [Ilya's 30u30 Reading List here](https://github.com/jayxin/Ilya-30u30)
 
 ---
 
-## How to Read This Book
+---
+
+## 🎓 How to Read This Book
 
 Each chapter includes:
 - 📖 **Accessible explanations** - Complex concepts made simple
@@ -115,38 +123,40 @@ Each chapter includes:
 - 💡 **Modern applications** - How ideas are used today
 - 📚 **References** - Original papers and further reading
 
-### Suggested Reading Paths
+---
 
-#### 🎯 Standard Path (Recommended)
-Read chapters 1-27 in order for a complete journey from theory to practice.
+## 🗺️ Suggested Reading Paths
 
-#### ⚡ Practitioner's Path
-If you want to build things quickly:
+### 🎯 Standard Path (Recommended)
+**Read chapters 1-27 in order** for a complete journey from theory to practice.
+
+### ⚡ Practitioner's Path
+**If you want to build things quickly:**
 1. Chapter 6 (AlexNet) → Chapter 8 (ResNet)
 2. Chapter 11-12 (RNNs/LSTMs)
 3. Chapter 15-17 (Attention/Transformers)
 4. Chapter 25 (Scaling Laws)
 
-#### 🧠 Theorist's Path
-If you love theory and foundations:
+### 🧠 Theorist's Path
+**If you love theory and foundations:**
 1. Chapters 1-5 (Full Part I)
 2. Chapter 27 (Superintelligence)
 3. Then practical chapters as needed
 
-#### 🔬 Researcher's Path
-For cutting-edge architectures:
+### 🔬 Researcher's Path
+**For cutting-edge architectures:**
 1. Chapters 16-17 (Transformers)
 2. Chapters 18-23 (Advanced Architectures)
 3. Chapters 25-26 (Scaling)
 
 ---
 
-## Support This Project
+## ⭐ Support This Project
 
 If you find this book useful, please consider ⭐ starring the [GitHub repository](https://github.com/piyushjajoo/ilya-30u30-book) to help others discover it!
 
 ---
 
-## License
+## 📄 License
 
 Educational content based on public research papers. All original papers are cited with links to their sources.

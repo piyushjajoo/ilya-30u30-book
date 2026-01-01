@@ -82,6 +82,10 @@ defaults:
       path: ""
     values:
       layout: default
+  - scope:
+      path: "chapters"
+    values:
+      nav_exclude: true
 
 # Callouts for notes, warnings, etc.
 callouts:

@@ -2,6 +2,7 @@
 layout: default
 title: Chapter 1 - The Minimum Description Length Principle
 nav_order: 3
+nav_exclude: true
 ---
 
 # Chapter 1: The Minimum Description Length Principle
