@@ -21,7 +21,7 @@ A comprehensive book based on the 30 papers and resources recommended by Ilya Su
 
 This book transforms Ilya Sutskever's legendary "30u30" reading list into an accessible, structured learning journey. Each chapter distills complex research papers into clear explanations with visual Mermaid diagrams.
 
-**Source:** Based on [Ilya's 30u30 Reading List](https://github.com/jayxin/Ilya-30u30)
+**Source:** Based on [Ilya's 30u30 Reading List](https://github.com/jayxin/Ilya-30u30) and [Primers • Ilya Sutskever's Top 30](https://aman.ai/primers/ai/top-30-papers)
 
 ---
 
