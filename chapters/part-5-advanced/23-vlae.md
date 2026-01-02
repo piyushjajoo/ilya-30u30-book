@@ -96,7 +96,7 @@ graph TB
 
 ### Why It Happens
 
-The KL term $KL(q(z|x) \| p(z))$ can dominate, pushing $q(z|x)$ toward the prior $p(z)$.
+The KL term $KL(q(z\|x) \| p(z))$ can dominate, pushing $q(z\|x)$ toward the prior $p(z)$.
 
 ---
 
@@ -316,8 +316,8 @@ VLAE also generates high-quality samples, balancing compression and generation.
 From Chapter 1, MDL minimizes: $L(H) + L(D|H)$
 
 For VLAE:
-- **L(H) = Rate**: $KL(q(z|x) \| p(z))$ (description of latent)
-- **L(D\|H) = Distortion**: $-\log p(x|z)$ (description of data given latent)
+- **L(H) = Rate**: $KL(q(z\|x) \| p(z))$ (description of latent)
+- **L(D\|H) = Distortion**: $-\log p(x\|z)$ (description of data given latent)
 
 ```mermaid
 graph TB
@@ -481,7 +481,7 @@ You've finished the **Advanced Architectures** section. You now understand:
 
 1. **Conceptual**: Explain the connection between VLAE's rate-distortion trade-off and MDL's model-data trade-off from Chapter 1.
 
-2. **Mathematical**: Derive why $I(x; z) \leq KL(q(z|x) \| p(z))$. When does equality hold?
+2. **Mathematical**: Derive why $I(x; z) \leq KL(q(z\|x) \| p(z))$. When does equality hold?
 
 3. **Implementation**: Implement a simple VLAE and vary $\beta$ to see the rate-distortion trade-off. Plot the curve.
 

@@ -358,7 +358,7 @@ But **diminishing returns** mean each order of magnitude gives less improvement.
 
 ### The Compression View
 
-From Chapter 1, MDL minimizes: $L(H) + L(D|H)$
+From Chapter 1, MDL minimizes: $L(H) + L(D\|H)$
 
 For scaling laws:
 - **L(H)**: Model description length (scales with $N$)
