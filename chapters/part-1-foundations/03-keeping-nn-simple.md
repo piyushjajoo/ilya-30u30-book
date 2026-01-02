@@ -167,16 +167,16 @@ graph LR
     style M fill:#ffe66d,color:#000
 ```
 
-*Figure: Total description length for neural networks: L(weights) = KL(Q||P) measures weight complexity, L(data|weights) = E[-log P(D|θ)] measures prediction errors. The goal is to minimize their sum.*
+*Figure: Total description length for neural networks: L(weights) = KL(Q\|\|P) measures weight complexity, L(data\|weights) = E[-log P(D\|θ)] measures prediction errors. The goal is to minimize their sum.*
 
 ### What Each Term Means
 
-**L(weights) = KL(Q||P)**
+**L(weights) = KL(Q\|\|P)**
 - Measures how different the learned weight distribution Q is from the prior P
 - High KL = complex model = many bits to describe weights
 - If Q = P, this term is zero (weights are "expected")
 
-**L(data|weights) = E[-log P(D|θ)]**
+**L(data|weights) = E[-log P(D\|θ)]**
 - Expected reconstruction/prediction error
 - Low error = fewer bits to describe residuals
 - This is the standard training loss!
@@ -227,7 +227,7 @@ graph TB
     style E fill:#ffe66d,color:#000
 ```
 
-*Figure: L2 regularization (λ||θ||²) is equivalent to a Gaussian prior on weights in the MDL/Bayesian framework. This connection shows that regularization is fundamentally about minimizing description length.*
+*Figure: L2 regularization (λ\|\|θ\|\|²) is equivalent to a Gaussian prior on weights in the MDL/Bayesian framework. This connection shows that regularization is fundamentally about minimizing description length.*
 
 ### Different Priors = Different Regularizers
 
@@ -316,7 +316,7 @@ graph TB
     style MAX fill:#ffe66d,color:#000
 ```
 
-*Figure: Variational inference framework. The true posterior P(θ|D) is intractable, so we approximate it with Q(θ). The KL divergence KL(Q||P) measures how good the approximation is, and minimizing it is equivalent to MDL.*
+*Figure: Variational inference framework. The true posterior P(θ\|D) is intractable, so we approximate it with Q(θ). The KL divergence KL(Q\|\|P) measures how good the approximation is, and minimizing it is equivalent to MDL.*
 
 ### Modern Implications
 
