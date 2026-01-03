@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "A comprehensive book based on the 30 papers and resources recommended by Ilya Sutskever for mastering Artificial Intelligence"
+description: "A free comprehensive book based on the 30 papers and resources recommended by Ilya Sutskever for mastering Artificial Intelligence"
 permalink: /
 mermaid: true
 ---
 
 # 📚 The Ilya 30u30 Deep Learning Compendium
 
-A comprehensive book based on the 30 papers and resources recommended by Ilya Sutskever for mastering Artificial Intelligence.
+A free comprehensive book based on the 30 papers and resources recommended by Ilya Sutskever for mastering Artificial Intelligence.
 {: .fs-6 .fw-300 }
 
 [Start Reading]({{ site.baseurl }}/README/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
